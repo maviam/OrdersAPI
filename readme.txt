@@ -16,3 +16,7 @@ http://127.0.0.1:8000/orders/
 - python
 - material icon theme
 - sqlite viewer
+
+# Instalação do módulo de migração das classes para a base de dados
+pip install alembic
+alembic init alembic (Criar uma pasta denominada alembic)
