@@ -11,3 +11,8 @@ uvicorn main:app --reload
 
 # Criar as nossas rotas
 http://127.0.0.1:8000/orders/
+
+# Extensões
+- python
+- material icon theme
+- sqlite viewer
